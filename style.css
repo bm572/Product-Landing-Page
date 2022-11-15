@@ -1,0 +1,50 @@
+#header{
+	position: fixed;
+	top: 0;
+}
+top-nav {
+width:100%;
+
+overflow: hidden;
+/* position: fixed; */
+top: 0;
+}
+
+h1{
+  font-family: roboto;
+	text-align: center;
+	font-weight: 100px;
+	color: black;
+	
+}
+
+/*** this is the video for the brand*/
+
+#video{
+	 width: 1650px;
+	height: 450px;
+  text-align: center;
+
+}
+
+/* this is the dior logo*/
+#header-img{
+	width: 330px;
+}
+
+.container{
+	padding: 300px;
+  background: auto;
+	
+}
+
+h3{
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: thin 3px;
+	text-decoration: none;
+}
+
+#models{
+	width: 900;
+}
